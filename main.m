@@ -1,4 +1,4 @@
-%Group: 8
+%Group: 8 (Towkir Ahmed & Pranta Dutta)
 
 clc;
 close all;
